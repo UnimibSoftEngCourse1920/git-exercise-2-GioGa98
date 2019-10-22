@@ -3,6 +3,6 @@ package gitExercise2.main;
 public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
-		System.out.println("Questa è un'altra stampa!!");
+		System.out.println("Questa è una nuovissima stampa per simulare la modifica simultanea di una riga di codice!!");
 	}
 }
